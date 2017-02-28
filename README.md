@@ -1,7 +1,7 @@
 # tbot-calendar
 
 [![Build Status](https://api.travis-ci.org/YegorB/tbot-calendar.svg?branch=master)](https://travis-ci.org/YegorB/tbot-calendar)
-[![Jitpack](https://jitpack.io/v/YegorB/tbot-calendar.svg)](https://jitpack.io/#yegorb/tbot-calendar)
+[![Jitpack](https://jitpack.io/v/YegorB/tbot-calendar.svg)](https://jitpack.io/#YegorB/tbot-calendar)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/YegorB/tbot-calendar/blob/master/LICENSE)
 
 The telegram bot tool for generating calendar as an inline keyboard.
