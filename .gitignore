@@ -16,3 +16,6 @@ gradle-app.setting
 # IDE specific
 .idea/
 *.iml
+
+.DS_Store
+*/.DS_Store
