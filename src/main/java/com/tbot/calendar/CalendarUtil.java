@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
-class CalendarUtil {
+public class CalendarUtil {
 
     public static final String IGNORE = "ignore!@#$%^&";
 
