@@ -5,7 +5,7 @@ repositories {
 }
 
 group = 'com.tbot.calendar'
-version = '1.0'
+version = '1.1-SNAPSHOT'
 sourceCompatibility = '1.8'
 
 dependencies {
